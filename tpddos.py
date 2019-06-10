@@ -1,3 +1,6 @@
+#Nocopyright
+#///codeBy Jhosua
+#jangan recode
 import sys
 import os
 import time
