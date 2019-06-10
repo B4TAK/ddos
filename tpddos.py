@@ -22,7 +22,7 @@ __  __      _        _ _
 |_|  |_|\___|\__\__,_|_|_|\___|
 
 \033[32;1mCreated   : Jhosua Saut Maruli
-\033[32;1mWhatsapp  : 082260032271
+\033[32;1mWhatsapp  : 081260032271
 \033[32;1mChannel   : Mr.F4K3 YT
 \033[32;1mGmail     : lucfaker666@gmail.com
 \033[32;1mType      : DDOS
